@@ -3,9 +3,9 @@
 
 # Languages: <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" />  Vb.net php 
 
-Tools: <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Visual Code" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Java" alt="Docker" />  <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Java" alt=".Net Core" />  
+Techs and tools: <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vs COde" alt="Visual Code" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" />  <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Java" alt="Git" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" /> <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" /> 
 
-MySQL GIT Docker Amazon AWS  
+MySQL  
 
 
 
