@@ -1,9 +1,3 @@
-
-body  {
- 
-  background-color: #0000;
-}
-
 # Eder 
 
 
