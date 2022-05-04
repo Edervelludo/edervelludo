@@ -16,7 +16,7 @@
 <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" /> </code>
 <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" /> </code>
 <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".Net" /> </code>
-<img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" /> </code>
+<img height="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" /> </code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
