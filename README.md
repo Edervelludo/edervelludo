@@ -1,7 +1,16 @@
 # Eder 
 
 
-Languages: <img height="25" src="https://github.com/devicons/devicon/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" />  Vb.net <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/master/icons/php/php-original.svg" title="PHP"git alt="#PHP" />  
+Languages: 
+
+<p align="left">
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
+<img height="25" src="https://github.com/devicons/master/icons/php/php-original.svg" title="PHP"git alt="#PHP" />  </code>
+ Vb.net </code>
+</p>
+
+
 
 Techs and tools: <img height="25" src="https://github.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="Vs COde" alt="Visual Code" /> <img height="25" src="https://github.com/devicons/devicon/devicons/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" />  <img height="25" src="https://github.com/devicons/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" /> <img height="25" src="https://github.com/devicons/master/icons/git/git-original.svg" title="Git" alt="Git" /> <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" /> <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" /> <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" /> <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" /
 
