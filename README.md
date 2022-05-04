@@ -13,8 +13,8 @@
 # Techs and tools: 
 <p align="left">
 <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vs COde" alt="Visual Code" /> </code>
-<img height="25" src="https://github.com/devicons/devicon/devicons/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" /> </code>
-<img height="25" src="https://github.com/devicons/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" /> </code>
+<img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" /> </code>
+<img height="25" src="https://github.com/deviconsdevicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" /> </code>
 <img height="25" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" title=".Net" alt=".Net" /> </code>
 <img height="25" src="https://github.com/devicons/devicon/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" /> </code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
