@@ -7,8 +7,8 @@
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
-<img height="25" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg title="PHP"git alt="PHP" />  </code>
- Vb.net 
+<img height="25" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"git alt="PHP" />  </code>
+ Vb.net </code>
 </p>
 
 
