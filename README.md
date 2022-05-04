@@ -1,5 +1,8 @@
 
-<span style="color:white">
+body  {
+ 
+  background-color: #0000;
+}
 
 # Eder 
 
@@ -32,4 +35,4 @@
 <img height="25" src="https://rancher.com/assets/img/logos/rancher-logo-horiz-color.svg" title="Rancher" alt="Rancher" />  </code>
 
 
-</span>.
+
